@@ -85,3 +85,19 @@ B-threads are orthogonal to objects. A b-thread may represent "a behaving object
 #### Environment Interaction
 
 B-threads can use standard interfaces to their environment (e.g., access physical sensors and actuators) in order to translate external occurrences into behavioral events and vice versa.
+
+### Selected References
+(in ascending year order)
+
+For additional material see bibliographies in papers below and web-pages of team members.
+
++ W. Damm and D. Harel. "LSCs: Breathing Life into Message Sequence Charts." J. on Formal Methods in System Design, 19(1), 2001.
++ D. Harel, H. Kugler, R. Marelly, and A. Pnueli. "Smart Play-out of Behavioral Requirements." In FMCAD, 2002.
++ D. Harel and R. Marelly. "Come, Let’s Play: Scenario-Based Programming Using LSCs and the Play-Engine". Springer, 2003.
++ D. Harel. Can Programming Be Liberated, Period? IEEE Computer, 41(1), 2008.
++ D. Harel, S. Maoz, S. Szekely, and D. Barkan. "PlayGo: towards a comprehensive tool for scenario based programming." In ASE, 2010.
++ D. Harel, A. Marron, and G. Weiss. "Programming coordinated scenarios in Java." In ECOOP , 2010.
++ G. Wiener, G. Weiss, and A. Marron. "Coordinating and visualizing independent behaviors in Erlang." In 9th ACM SIGPLAN Erlang Workshop, 2010.
++ S. Maoz, D. Harel, and A. Kleinbort, "A Compiler for Multi-Modal Scenarios: Transforming LSCs into AspectJ", ACM TOSEM , Vol. 20, Issue 4, 2011.
++ D. Harel, R. Lampert, A. Marron, and G. Weiss. "Model-checking behavioral programs." In EMSOFT , 2011.
++ D. Harel, A. Marron and G. Weiss, “Behavioral Programming”, Communications of the ACM, Vol 55. No. 7 , 2012

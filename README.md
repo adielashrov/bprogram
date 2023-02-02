@@ -15,7 +15,7 @@ Behavioral programming integrates with, and complements, object oriented program
 
 Repeatedly, behavior threads declare their "opinions" as to what is desired, what is possible, and what is forbidden, and a central decision is made that accommodates these opinions.
 
-+ [Event-based abstraction](https://github.com/adielashrov/bprogram/edit/main/README.md#event-based-abstraction)
++ [Event-based abstraction](https://pages.github.com/)
 + [Behavior threads](https://pages.github.com/)
 + [B-thread independence](https://pages.github.com/)
 + [Implicit permission seeking](https://pages.github.com/)

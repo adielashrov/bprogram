@@ -62,7 +62,7 @@ a b-thread, or a collection of b-threads for a particular task, can request some
 
 A b-thread may forbid the triggering of events that are requested by other b-threads. The forbidding idioms will work correctly even if no such requests are made, or even if there no other b-threads at all.
 
-Event selection with a global view
+#### Event selection with a global view
 
 Only events that are requested and not blocked can be triggered.
 
